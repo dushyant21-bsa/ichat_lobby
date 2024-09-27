@@ -1,4 +1,4 @@
-<a href="https://dushtant21-bsa.github.io/chat_lobby/">Click Here!</a>
+<a href="https://dushyant21-bsa.github.io/ichat_lobby/">Click Here!</a>
 <h1>iChat - RealTime Socket.io Chat App</h1>
 <h2>Overview</h2>
 <p>iChat is a real-time chat application built using Node.js and Socket.IO. It allows users to join chat rooms, exchange messages in real-time, and receive notifications when other users join or leave the chat.
